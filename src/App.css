@@ -81,3 +81,14 @@ form {
   font-size: 18px;
   color: blueviolet;
 }
+.btns-container {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+.update-btn {
+  flex: 1;
+}
